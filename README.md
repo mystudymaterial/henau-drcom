@@ -1,7 +1,7 @@
 # henau-drcom
 
 
-**heau-drcom**是一款专为henau打造的openwrt编译版本，内置henau-drcom认证,简单几步可实现henau校园网自动认证。
+**henau-drcom**是一款专为henau打造的openwrt编译版本，内置henau-drcom认证,简单几步可实现henau校园网自动认证。
  
 - **drcom认证** ：实现一号多用，节省每月网费；
 - **科学上网** ：内置shadowsockes,redsockes2,ChinaDNS实现科学上网；
